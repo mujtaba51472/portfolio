@@ -1,0 +1,65 @@
+@media screen and (max-width: 400px) {
+  .arow img {
+    margin-top: -35px;
+  }
+  .two p {
+    font-size: 16px;
+  }
+  #heading-2 {
+    font-size: 14px;
+  }
+
+  #heading {
+    font-size: 16px;
+  }
+  #para {
+    font-size: 12px;
+  }
+  .intro-section a {
+    font-size: 12px;
+    padding: 6px 8px !important;
+  }
+  .jumbotron h1 {
+    font-size: 18px !important;
+  }
+  .jumbotron p {
+    font-size: 15px;
+  }
+  #skills h2 {
+    font-size: 16px;
+  }
+  #skills p {
+    font-size: 12px;
+  }
+  .contact-box h4 {
+    font-size: 18px;
+  }
+  .contact-box label {
+    font-size: 14px;
+  }
+  .contact-box button {
+    font-size: 12px;
+    padding: 2px 8px;
+    margin-right: 8px;
+    margin-top: -10px !important;
+  }
+  .arow img {
+    width: 100px !important;
+    height: 100px !important;
+    margin-top: -100px;
+  }
+  .two {
+    margin-top: -60px;
+  }
+  .social a {
+    height: 25px !important;
+    width: 25px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -12px !important;
+  }
+  .footer {
+    height: 250px !important;
+  }
+}

@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+nav {
+  height: 120px;
+}
+nav ul {
+  margin-right: 90px;
+}
+nav ul li {
+  padding: 0 12px;
+}
+
+nav div {
+  margin-right: 15px;
+}
+
+/* intro section  */
+.intro-section {
+  height: 400px;
+  overflow: auto;
+}
+.one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.arow {
+  margin-top: 70px;
+}
+
+/* contact form  */
+.contact-box {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  box-sizing: border-box !important;
+}
+.footer {
+  margin-top: 60px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
